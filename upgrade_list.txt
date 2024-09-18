@@ -1,5 +1,3 @@
-margin_trading_x10
-margin_trading_x20
 margin_trading_x30
 margin_trading_x50
 margin_trading_x75
@@ -67,7 +65,6 @@ bitcoin_pizza_day
 ceo_21m
 hamster_daily_show
 hamster_youtube_channel
-hamster_youtube_gold_button
 web3_academy_launch
 lambo_for_ceo
 consensys_piranja_pass
@@ -86,7 +83,6 @@ adv_integration_0907
 adv_integration_1307
 business_jet
 call_btc_rise
-rolex_soulmate
 appstore_launch
 fight_fight
 telegram_50m
